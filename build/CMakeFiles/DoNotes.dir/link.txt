@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/DoNotes.dir/link.d CMakeFiles/DoNotes.dir/DoNotes_autogen/mocs_compilation.cpp.o CMakeFiles/DoNotes.dir/src/app.cc.o CMakeFiles/DoNotes.dir/src/ui/MainWindow.cc.o -o DoNotes  /usr/lib64/libQt6Widgets.so.6.9.1 /usr/lib64/libQt6Gui.so.6.9.1 /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so /usr/lib64/libQt6Core.so.6.9.1
