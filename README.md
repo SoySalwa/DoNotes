@@ -36,7 +36,7 @@ DoNotes/
 1. **Clone the repository** (or copy files):
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SoySalwa/DoNotes.git
 cd DoNotes
 ```
 
