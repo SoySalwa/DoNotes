@@ -1,5 +1,0 @@
-/home/salwa/Documents/QtProjects/DoNotes/build/CMakeFiles/DoNotes.dir
-/home/salwa/Documents/QtProjects/DoNotes/build/CMakeFiles/edit_cache.dir
-/home/salwa/Documents/QtProjects/DoNotes/build/CMakeFiles/rebuild_cache.dir
-/home/salwa/Documents/QtProjects/DoNotes/build/CMakeFiles/DoNotes_autogen_timestamp_deps.dir
-/home/salwa/Documents/QtProjects/DoNotes/build/CMakeFiles/DoNotes_autogen.dir
