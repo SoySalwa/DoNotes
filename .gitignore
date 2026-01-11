@@ -1,3 +1,4 @@
+.vscode/
 .data/notes/*.txt
 .data/notes/*.doNote
-./build/
+build/
