@@ -111,6 +111,8 @@ void MainWindow::createTab()
             { updateWordCount(editor); });
 
     QVBoxLayout *tabLayout = new QVBoxLayout(tab);
+    tabLayout->setContentsMargins(0, 0, 0, 0);
+    tabLayout->setSpacing(0);
     tabLayout->addWidget(editor);
 
     int index = tabWidget->addTab(tab, QString("Tab %1").arg(tabWidget->count() + 1));
@@ -144,6 +146,7 @@ void MainWindow::saveCurrentTabContent()
                 QTextStream out(&file);
                 out << content;
                 file.close();
+                tabWidget->setTabText(tabWidget->currentIndex(), QFileInfo(fileName).fileName());
             }
         }
     }
